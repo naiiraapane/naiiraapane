@@ -2,6 +2,12 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Naira Pane**.
+<p align="left">
+<a href="https://github.com/naiiraapane">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **naiiraapane/naiiraapane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
